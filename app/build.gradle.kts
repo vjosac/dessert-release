@@ -70,4 +70,6 @@ dependencies {
 
     androidTestImplementation(libs.androidx.espresso.core.v351)
     androidTestImplementation(libs.androidx.junit.v115)
+
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
 }
